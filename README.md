@@ -75,7 +75,8 @@ With Broadlink manager you can:
     0x610f,  # RM4c
     0x62bc,  # RM4 Mini
     0x62be,  # RM4c Mini
-    0x6539  # RM4c Mini
+    0x6539,  # RM4c Mini
+    0x653c.  # RM4 Pro
            
 ### a1:
     0x2714,  # A1
